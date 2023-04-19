@@ -4,6 +4,9 @@ TicTacToe game made with UIKit framework
 
 <p>
   <img src="https://github.com/omerfarukercivan/TicTacToe/blob/main/xoxSS1.png" width="350" height="650">
-  &nbsp&nbsp&nbsp
+  &nbsp
+  &nbsp
+  &nbsp
+  &nbsp
   <img src="https://github.com/omerfarukercivan/TicTacToe/blob/main/xoxSS2.png" width="350" height="650">
 </p>
